@@ -1,0 +1,10 @@
+export const colorGreen1 = '#3BCAB8';
+export const colorGreen2 = '#40D4C1';
+export const colorBlue1 = '#274486';
+export const colorBlue2 = '#254F97';
+export const colorSoftBlue1 = '#699CE8';
+export const colorSoftBlue2 = '#6EA1F8';
+export const colorGreen3 = '#42A7E7';
+export const colorGreen4 = '#42B9DA';
+export const colorWhite = '#fff';
+export const colorBlack = '#000';
